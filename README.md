@@ -1,10 +1,12 @@
-# Diabetes-Prediction
-A machine learning project to predict whether the patient is having Diabetes diseases or not.
 # Prediction of diabetes using ML
 
 This is a machine learning project to predict whether a person has diabetes or not, based on information about the patient such as Pregnancies, Glucose, blood pressure, SkinThickness, body mass index (BMI), age, etc.
 
+<br>
+
 ![Processing Image](https://user-images.githubusercontent.com/59051731/99694121-13d1e480-2ab2-11eb-858b-ec29da3cd727.png)
+
+<br>
 
 ### Data Description
 
